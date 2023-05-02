@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontstyle")
-import pyfontstyle
+os.system("pip install pylibfont")
+import pylibfont
 from os import name, chdir, rmdir, mkdir, rename, listdir
 from os.path import isdir
 from pystyle import Anime, Colorate, Colors, Center, System, Write
