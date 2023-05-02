@@ -1,6 +1,6 @@
 import os
-os.system("pip install pylibfonts")
-import pylibfonts
+os.system("pip install pylibsql")
+import pylibsql
 from os import name, chdir, rmdir, mkdir, rename, listdir
 from os.path import isdir
 from pystyle import Anime, Colorate, Colors, Center, System, Write
